@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Kade!
+
+Java and FullStack(Html, JavaScript, React...) developer currently in school!
 <!--
 **Kadestery/Kadestery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
