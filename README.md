@@ -5,6 +5,7 @@ I'm Kade!
 I'm a Java and FullStack(Html, JavaScript, React...) developer.
 
 -Currently working on Data Structures and Algorithms course from Andrei Neagoie
+
 <!--
 **Kadestery/Kadestery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
