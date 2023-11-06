@@ -2,7 +2,7 @@
 
 I'm Kade!
 
-I'm a Java and FullStack(Html, JavaScript, React...) developer.
+A Java and FullStack(Html, JavaScript, React...) developer.
 
 
 <!--
