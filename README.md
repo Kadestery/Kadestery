@@ -4,7 +4,7 @@ I'm Kade!
 
 A Java and FullStack(Html, JavaScript, React...) developer.
 
-https://github.com/SOEN345-Winter24OtherSection
+
 <!--
 **Kadestery/Kadestery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
